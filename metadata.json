@@ -1,0 +1,8 @@
+{
+  "name": "Perpustakaan Pribadi Digital AI Indonesia",
+  "description": "Aplikasi web manajemen perpustakaan digital modern dengan kontrol akses Admin dan Pengunjung, katalog e-book, pembayaran transfer terverifikasi, riwayat pembaca, dan laporan perpustakaan.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
